@@ -1,0 +1,2 @@
+# Cypress.io Test Project
+At [thinkcru](https://thinkcru.com) we always insure all our products are maintainable and testable.  This is an example project of a Cypress.io test project when explaining the blog post [End-to-End Testing With Selenium and Cypress.io](https://thinkcru.com/end-to-end-testing-with-selenium-and-cypress-io/).
